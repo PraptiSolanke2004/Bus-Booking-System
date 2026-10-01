@@ -482,13 +482,3 @@ Possible future improvements include:
 * Reports and analytics dashboard
 
 ---
-
-## 👩‍💻 Author
-
-**Prapti Solanke**
-
-B.Tech Computer Engineering Student
-
-**Interests:** Python | Data Analytics | Data Science | Machine Learning | Software Development
-
-This version is **specifically aligned with the code and files in your uploaded ZIP**, including the MySQL database, `DoublyLinkedList`, `Passenger`/`Booking` classes, waiting list, CSV import, and 8-day booking window.
