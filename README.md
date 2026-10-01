@@ -1,6 +1,3 @@
-Yes. I checked the **actual BUS Booking System + MySQL ZIP** you uploaded. Your project is more advanced than the earlier description: it uses **Python, MySQL, OOP, a custom Doubly Linked List, booking/waiting-list management, date-based booking, validation, exception handling, and CSV-to-MySQL import**.
-
-Here is a GitHub-ready README based on the actual project files:
 
 # 🚌 Bus Booking System – Python & MySQL
 
